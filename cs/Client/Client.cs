@@ -9,13 +9,23 @@ using System.Net.Sockets;
 public class Client
 {
 
-    public static void Main()
+    public static void Main(string[] args)
     {
 
         try
         {
-            TcpClient tcpclnt = new TcpClient();
             String ip = "192.168.0.114";
+            if (args.Length > 0)
+            {
+                ip = args[0];
+                Console.WriteLine("Using command line ip address: " + ip);
+            }
+            else
+            {
+                Console.WriteLine("Using default ip address: " + ip);
+            }
+
+            TcpClient tcpclnt = new TcpClient();
             Console.WriteLine("Connecting....." + ip);
 
             tcpclnt.Connect(ip, 8001);

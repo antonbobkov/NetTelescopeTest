@@ -5,11 +5,21 @@ using System.Net.Sockets;
 
 public class Server
 {
-    public static void Main()
+    public static void Main(string[] args)
     {
         try
         {
-            IPAddress ipAd = IPAddress.Parse("192.168.0.114");
+            String ip = "192.168.0.114";
+            if (args.Length > 0)
+            {
+                ip = args[0];
+                Console.WriteLine("Using command line ip address: " + ip);
+            }
+            else {
+                Console.WriteLine("Using default ip address: " + ip);
+            }
+
+            IPAddress ipAd = IPAddress.Parse(ip);
             // use local m/c IP address, and 
             // use the same in the client
 
