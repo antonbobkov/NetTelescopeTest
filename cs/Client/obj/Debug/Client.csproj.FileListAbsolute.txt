@@ -1,0 +1,12 @@
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\bin\Debug\Client.exe.config
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\bin\Debug\Client.exe
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\bin\Debug\Client.pdb
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\obj\Debug\Client.exe
+C:\Users\Anton\offline_projects\NetScopeTest\cs\Client\obj\Debug\Client.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\bin\Debug\Client.exe.config
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\bin\Debug\Client.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\bin\Debug\Client.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\obj\Debug\Client.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\Client\obj\Debug\Client.pdb
