@@ -1,0 +1,7 @@
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\bin\Debug\StellariumReaderNonBlocking.exe.config
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\bin\Debug\StellariumReaderNonBlocking.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\bin\Debug\StellariumReaderNonBlocking.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\obj\Debug\StellariumReaderNonBlocking.csproj.CoreCompileInputs.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\obj\Debug\StellariumReaderNonBlocking.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\obj\Debug\StellariumReaderNonBlocking.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReaderNonBlocking\obj\Debug\StellariumReaderNonBlocking.csprojAssemblyReference.cache

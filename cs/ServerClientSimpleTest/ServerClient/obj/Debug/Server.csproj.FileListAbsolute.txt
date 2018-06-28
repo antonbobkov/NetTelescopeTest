@@ -10,3 +10,6 @@ C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClient\obj\Debug\Serve
 C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClient\bin\Debug\Server.exe
 C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClient\bin\Debug\Server.pdb
 C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClient\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientSimpleTest\ServerClient\bin\Debug\Server.exe.config
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientSimpleTest\ServerClient\obj\Debug\Server.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientSimpleTest\ServerClient\obj\Debug\Server.pdb

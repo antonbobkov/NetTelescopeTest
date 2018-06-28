@@ -1,0 +1,7 @@
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\bin\Debug\StellariumReader.exe.config
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\bin\Debug\StellariumReader.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\bin\Debug\StellariumReader.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\obj\Debug\StellariumReader.csprojAssemblyReference.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\obj\Debug\StellariumReader.csproj.CoreCompileInputs.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\obj\Debug\StellariumReader.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\StellariumReader\obj\Debug\StellariumReader.pdb

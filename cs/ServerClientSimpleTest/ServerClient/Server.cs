@@ -9,7 +9,7 @@ public class Server
     {
         try
         {
-            String ip = "192.168.0.114";
+            String ip = "127.0.0.1";
             if (args.Length > 0)
             {
                 ip = args[0];

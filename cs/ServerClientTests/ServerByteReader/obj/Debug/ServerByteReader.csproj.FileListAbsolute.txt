@@ -1,0 +1,7 @@
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\bin\Debug\ServerByteReader.exe.config
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\bin\Debug\ServerByteReader.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\bin\Debug\ServerByteReader.pdb
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\obj\Debug\ServerByteReader.csprojAssemblyReference.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\obj\Debug\ServerByteReader.csproj.CoreCompileInputs.cache
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\obj\Debug\ServerByteReader.exe
+C:\Users\Anton\offline_projects\NetTelescopeTest\cs\ServerClientTests\ServerByteReader\obj\Debug\ServerByteReader.pdb
